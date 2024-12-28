@@ -8,4 +8,5 @@ This is a simple Flutter application that displays two images and customized tex
   - One loaded from project assets.
   - One loaded from the internet.
 
-
+## Example Output
+![Output Screenshot](screenshot.png)
