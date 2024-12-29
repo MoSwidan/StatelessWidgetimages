@@ -1,12 +1,16 @@
-# My First Flutter Project
+# myfirstproject
 
-This is a simple Flutter application that displays two images and customized text in a stateless widget.
+A new Flutter project.
 
-## Features
-- **AppBar**: Displays the title of the page.
-- **Images**: 
-  - One loaded from project assets.
-  - One loaded from the internet.
+## Getting Started
 
-## Example Output
-![Output Screenshot](screenshot.png)
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
